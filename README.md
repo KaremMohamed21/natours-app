@@ -6,7 +6,7 @@ Demo: https://natours-kareem.herokuapp.com/
 
 Creadentials for testing
 
-  - Email: mark@example.com
+  - Email: kareem@example.com
   - Password: test1234
 
 
